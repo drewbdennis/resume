@@ -175,37 +175,7 @@ Microsoft Excel, Microsoft Visio, Microsoft Powerpoint</p><p>Framework: Codeigni
 			<div class="set">
 				<div class="item">
 					<span class="info">
-						<span>Robson Mutandi</span><br />
-						Director and Country Representative in Mozambique, Botswana and South Africa<br />
-						IFAD Programme Management Department<br />
-						Hp: <span>+258823112151</span><br />
-						Email: r.mutandi@ifad.org<br /><br />
-						
-						<span>George Balashi Mashinkila</span><br />
-						Chairman and Chief Executive Officer<br />
-						Yombwe Investment Limited (YIL)<br />
-						Work: <span>+260211372732</span><br />
-						Hp: <span>+260979839739</span><br />
-						Email: george.mashinkila@yombwe.com<br /><br />
-						
-						<span>Devan Singaram</span><br />
-						Founder of TribeHired<br />
-						Hp: <span>+60122027092</span><br />
-						Email: devan@tribehired.com<br /><br />
-						
-						<span>Yusnita Yusof</span><br />
-						Lecturer<br />
-						School of Computing &amp; Technology<br />
-						Asia Pacific University College of Technology &amp; Innovation (UCTI)<br />
-						TPM Bukit Jalil, 57000 Kuala Lumpur<br />
-						Tel: <span>+60389925079</span><br />
-						Hp: <span>+60123456170</span><br />
-						Email: yusnita@ucti.edu.my<br /><br />
-							
-						<span>Hoorang G. Broujerdi</span><br />
-						Lecturer<br />
-						Hp: <span>+16479697244</span><br />
-						Email: hoorang_b@yahoo.com<br /><br />
+						<span>Will be given when requested.</span>
 					</span>
 				</div>
 			</div>
