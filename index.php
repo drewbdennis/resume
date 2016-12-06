@@ -30,7 +30,6 @@
 				
 									<p class="website"><label>Website<span class="colon">:</span></label> <span class="value"><a href="https://www.facebook.com/drewbdennis" rel="nofollow">https://www.facebook.com/drewbdennis</a></span></p>
 				
-									<p class="phone"><label>Phone<span class="colon">:</span></label> <span class="value">+251923829129</span></p>
 							</div>
 			<div class="clear"> </div>
 		</div><!-- set //-->
