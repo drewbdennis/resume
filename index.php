@@ -44,7 +44,7 @@
 			<div class="set">
 				<div class="item">
 					<h3><span class="company l">IFAD-Mozambique</span>
-						<span class="date r">March 6, 2017 &mdash; December 31, 2017</span>
+						<span class="date r">Mar 6, 2017 &mdash; Dec 31, 2017</span>
 					</h3>
 					<div class="clear"> </div>
 					<span class="job_title">IT Consultant</span>
