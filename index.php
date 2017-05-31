@@ -172,7 +172,7 @@ Design: Visual Studio.Net,
 Aptana Studio 3<br />
 Programming Language: VB.Net, C#, ASP.Net, PHP<br />
 General: Microsoft Word,
-Microsoft Excel, Microsoft Visio, Microsoft Powerpoint</p><p>Framework: Codeigniter<br /></p><p>Sports: Basketball, swimming, hiking, biking, etc.</p></span>
+Microsoft Excel, Microsoft Visio, Microsoft Powerpoint</p><p>Framework: Codeigniter, Laravel 5<br /></p><p>Sports: Basketball, swimming, hiking, biking, etc.</p></span>
 							
 							</div>
 						</div>
