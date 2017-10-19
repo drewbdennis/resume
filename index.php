@@ -170,7 +170,7 @@ Operating System: MSDOS,
 Microsoft Windows, Windows NT, Ubuntu, Fedora<br />
 Design: Visual Studio.Net,
 Aptana Studio 3<br />
-Programming Language: VB.Net, C#, ASP.Net, PHP<br />
+Programming Language: VB.Net, C#, ASP.Net, PHP, JQuery, HTML5<br />
 General: Microsoft Word,
 Microsoft Excel, Microsoft Visio, Microsoft Powerpoint</p><p>Framework: Codeigniter, Laravel 5<br /></p><p>Sports: Basketball, swimming, hiking, biking, etc.</p></span>
 							
