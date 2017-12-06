@@ -191,7 +191,7 @@ Microsoft Excel, Microsoft Visio, Microsoft Powerpoint</p><p>Framework: Codeigni
 		</div>
 				
 	</div>
-	<div id="credit">Designed By: <a href="https://bevennycreations.com">BevennyCreations</a></div>
+	<div id="credit">Designed By: <a href="https://bevennycreations.com">Bevenny Creations</a></div>
 	
 </body>
 </html>
