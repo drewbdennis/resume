@@ -23,7 +23,7 @@
 		
 							<p class="address">
 					<span class="value">
-						c/o Claudia W. Broderick, Administrative Officer, FAO(UN)<br />CMC Road, P. O. Box 5536, Addis Ababa, Ethiopia					</span>
+						c/o Claudia W. Broderick, Regional Human Resources Officer, FAO(UN) Regional Office for Africa<br>#2 Gamel Abdul Nasser Road, P. O. Box GP 1628 Accra, Ghana					</span>
 				</p>
 						<div class="r">
 									<p class="email"><label>E-mail<span class="colon">:</span></label> <span class="value">drewbdennis@yahoo.com</span></p>
