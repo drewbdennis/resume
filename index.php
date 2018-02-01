@@ -28,7 +28,7 @@
 						<div class="r">
 									<p class="email"><label>E-mail<span class="colon">:</span></label> <span class="value">drewbdennis@yahoo.com</span></p>
 				
-									<p class="website"><label>Website<span class="colon">:</span></label> <span class="value"><a href="https://www.facebook.com/drewbdennis" rel="nofollow">https://www.facebook.com/drewbdennis,</a> <a href="http://drewbdennis.com," rel="nofollow">http://drewbdennis.com,</a> <a href="https://bevennycreations.com" rel="nofollow">https://bevennycreations.com</a></span></p>
+									<p class="website"><label>Website<span class="colon">:</span></label> <span class="value"><a href="https://www.facebook.com/drewbdennis" rel="nofollow">https://www.facebook.com/drewbdennis,</a> <a href="http://drewbdennis.com" rel="nofollow">http://drewbdennis.com,</a> <a href="https://bevennycreations.com" rel="nofollow">https://bevennycreations.com</a></span></p>
 				
 							</div>
 			<div class="clear"> </div>
