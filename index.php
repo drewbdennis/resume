@@ -43,6 +43,21 @@
 			<h2 class="title">Work experience</h2>
 			<div class="set">
 				<div class="item">
+									<h3><span class="company l">IFAD-Mozambique</span>
+							<span class="date r">March 20, 2018 &mdash; December 31, 2018</span>
+								</h3>
+								<div class="clear"> </div>
+								<span class="job_title">IT Consultant</span><div class="info"><span>Train CEDSIF staff, and hand over the 
+overall management of the system(ArcaE) to the government. Support the 
+finalization of the MoU between IFAD projects and CEDSIF on technical 
+issues related to ArcaE.<br /><br />Train service provider on the use of the
+ system. Do check and control on the first stage of uploading financial 
+documents and documentations.<br /><br />Conduct quality tests on ArcaE for the pilot test of PROSUL.<br /><br />Provide technical support and capacity building to project staff.<br /><br />Organize and participate in the official launching of the e-archive (ArcaE) in partnership with government.<br /><br />Required
+ to travel to project office across the country, in order to obtain the 
+data of ArcaE for the migration to CEDSIF servers, as well as support on
+ resolution of issues related to ArcaE.</span></div><div class="clear"> </div>
+								</div>
+				<div class="item">
 					<h3><span class="company l">IFAD-Mozambique</span>
 						<span class="date r">Mar 6, 2017 &mdash; Dec 31, 2017</span>
 					</h3>
