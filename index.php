@@ -43,6 +43,21 @@
 			<h2 class="title">Work experience</h2>
 			<div class="set">
 				<div class="item">
+									<h3><span class="company l">Programa de Promocao de Mercados Rurais (PROMER)</span>
+							<span class="date r">September 15, 2019 &mdash; Present</span>
+								</h3>
+								<div class="clear"> </div>
+								<span class="job_title">IT Consultant</span><div class="info"><span>Implement and administer enterprise-wide document management systems (ArcaE) and related procedures that allow organizations to capture, store, retrieve, share, and destroy electronic records and documents. The consultant will work closely and supervise a team of three people. The consultant </span><span>interview and train new data entry employees. </span><div><span><br /></span></div><div><ol><li><span>Organizes schedules, performs regular coaching and counseling and disciplines employees as needed.</span></li><li><span>Clearly communicates job expectations to data entry team, while monitoring, appraising and reviewing their work. Enforces company policies and procedures as necessary.</span></li><li><span>Compile and verify the accuracy of data to prepare it for computer entry.</span></li><li><span>Apply data techniques within the program and following all procedures.</span></li><li><span>Generate data reports and perform backups in archives.</span></li><li><span>Updates job information and knowledge through participation in continued education.</span></li><li><span>Keeps all company information confidential.</span></li></ol></div></div><div class="clear"> </div>
+								</div>
+							
+								<div class="item">
+									<h3><span class="company l">IFAD-Mozambique</span>
+							<span class="date r">February 22, 2019 &mdash; June 30, 2019</span>
+								</h3>
+								<div class="clear"> </div>
+								<span class="job_title">IT Consultant</span><div class="info">To finalize all hosting and security issues with CEDSIF, finalize the digitizing and migration of PROAQUA, PSP, PROPESCA and PROMER data to ArcaE for archiving. Worked with CEDSIF in making sure that all projects can access ArcaE remotely and securely.</div><div class="clear"> </div>
+								</div>
+				<div class="item">
 									<h3><span class="company l">IFAD-Mozambique</span>
 							<span class="date r">March 20, 2018 &mdash; December 31, 2018</span>
 								</h3>
