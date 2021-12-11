@@ -243,7 +243,7 @@ encrypt and hide hidden message in audio stream. (.avi, .mp3, .wav)</p></div><sp
 		</div>
 		
 </div>
-	<div id="credit">Made with <a href="https://cvmkr.com/">CV Maker</a></div>
+	<div id="credit">Designed By: <a href="https://bevennycreations.com">Bevenny Creations</a></div>
 	
 <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
 </html>
