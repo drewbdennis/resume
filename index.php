@@ -30,7 +30,7 @@
 				
 									<p class="website"><label>Website<span class="colon">:</span></label> <span class="value"><a href="http://drewbdennis.com," rel="nofollow">http://drewbdennis.com,</a> <a href="https://bevennycreations.com" rel="nofollow">https://bevennycreations.com</a></span></p>
 				
-									<p class="phone"><label>Phone<span class="colon">:</span></label> <span class="value">+258846567498<br /> +233552373955</span></p>
+									<p class="phone"><label>Phone<span class="colon">:</span></label> <span class="value">+258846567498<br /> +233552373955<br /> +231770322676</span></p>
 							</div>
 			<div class="clear"> </div>
 		</div><!-- set //-->
