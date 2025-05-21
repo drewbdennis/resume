@@ -13,7 +13,7 @@
 
 <div id="main">
 			<div id="photo">
-			<img src="https://s3-eu-west-1.amazonaws.com/files1.cvmkr.com/553a87_164574_13122013.jpg" alt="" />
+			<img src="assets/img/153ba6_164574_2986758.jpg" alt="" />
 		</div>
 		<div class="header photo">
 	
